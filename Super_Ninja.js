@@ -18,10 +18,10 @@ class Ninja {
     }
 }
 
-// const blueNinja = new Ninja("Leonardo", 100);
-// blueNinja.sayName();
-// blueNinja.showStats();
-// blueNinja.drinkSake();
+const blueNinja = new Ninja("Leonardo", 100);
+blueNinja.sayName();
+blueNinja.showStats();
+blueNinja.drinkSake();
 
 
 class Sensei extends Ninja {
